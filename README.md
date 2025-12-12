@@ -35,9 +35,6 @@ Features<br/>1. item id<br/>
 Models Used<br/>1. Linear Regression
 <br/>2. LSTM Neural Network
 <br/>3. CNN-LSTM Neural Network
-<br/>4. Light GBM Model
-<br/>5. AdaBoost Regressor Model
-<br/>6. CatBoost Model
 
-Special Thanks to Konstantin Yakovlev kernels in kaggle from where I have got to learn many things in this competition(Especially combing all 3 snaps as one).<br/>
-References:-<br/>1.https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/163684<br/>2.https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/164374 <br/>3.https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/163578<br/>4.https://www.kaggle.com/kyakovlev/m5-simple-fe<br/>4.https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/164599
+
+
