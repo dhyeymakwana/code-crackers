@@ -5,6 +5,7 @@ This project focuses on solving the **M5 Forecasting Accuracy competition** usin
 The goal is to predict **28 days of future sales** for **30,490 items** across **3 U.S. states**, using hierarchical forecasting and the **WRMSSE metric**, which evaluates forecast quality across all hierarchy levels.
 
 ---
+![Demo Screenshot](OrganisedData.png)
 
 # 📊 WRMSSE Evaluation Metric
 
