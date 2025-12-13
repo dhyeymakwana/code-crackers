@@ -7,6 +7,23 @@ The goal is to predict **28 days of future sales** for **30,490 items** across *
 ---
 ![Demo Screenshot](OrganisedData.PNG)
 
+# 🗄️ Database Integration (MySQL)
+
+To handle the large M5 CSV files efficiently, the project includes a **MySQL-based data pipeline**:
+
+### 🔌 1. Database Connection
+
+The file `db_connect.py` creates a reusable SQLAlchemy engine for MySQL using environment variables:
+
+```bash
+# .env (example)
+DB_USER=m5user
+DB_PASS=m5pass
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=m5db
+```
+
 # 📊 WRMSSE Evaluation Metric
 
 WRMSSE (Weighted Root Mean Squared Scaled Error) is computed as:
